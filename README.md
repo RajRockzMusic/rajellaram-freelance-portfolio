@@ -21,7 +21,7 @@ This repo serves as a portfolio of brands and projects I’ve worked on.
 
 ### Jibumi
 - **Description:** Developed sleek Shopify theme with brand-specific UI elements and SEO optimization.
-- **Live Site:** [Jibumi](https://jibumi.in/)
+- **Live Site:** [Jibumi](https://jibumi.com/)
 
 ### Eika Organics
 - **Description:** Full Shopify website development, product pages, and branded visuals for a natural lifestyle brand.
