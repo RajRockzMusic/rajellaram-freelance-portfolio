@@ -11,13 +11,13 @@ This repo serves as a portfolio of brands and projects I’ve worked on.
 - **Description:** Custom Shopify theme with conversion-focused funnels, responsive design, and performance optimization.
 - **Live Site:** [Roxylane](https://roxylane.in/)
 
-### spaceTHING
-- **Description:** Theme development and UI/UX optimization for better customer engagement and mobile responsiveness.
-- **Live Site:** [spaceTHING](https://spacething.in/)
-
 ### Stravage
 - **Description:** Designed a modern storefront and optimized product discovery flow, integrated APIs for payments and analytics.
 - **Live Site:** [Stravage](https://stravage.in/)
+.
+### VAKI INFINITE
+- **Description:** Recreated the entire store on a new platform, designing a modern storefront while optimizing product discovery and integrating APIs for payments and analytics.
+- **Live Site:** [VAKI INFINITE](https://www.vakiinfinite.com/)
 
 ### Jibumi
 - **Description:** Developed sleek Shopify theme with brand-specific UI elements and SEO optimization.
@@ -26,6 +26,10 @@ This repo serves as a portfolio of brands and projects I’ve worked on.
 ### Eika Organics
 - **Description:** Full Shopify website development, product pages, and branded visuals for a natural lifestyle brand.
 - **Live Site:** [Eika Organics](https://eikaorganics.com/)
+
+### spaceTHING
+- **Description:** Theme development and UI/UX optimization for better customer engagement and mobile responsiveness.
+- **Live Site:** [spaceTHING](https://spacething.in/)
 
 ---
 
